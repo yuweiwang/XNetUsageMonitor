@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Breakpoints</key>
+	<dict>
+		<key>widget.wdgt/main.js:32</key>
+		<string>refresh</string>
+		<key>widget.wdgt/main.js:59</key>
+		<string>-refresh</string>
+		<key>widget.wdgt/main.js:62</key>
+		<string>-stateHandle</string>
+	</dict>
+	<key>CYLastWindowPosition</key>
+	<string>{941, 322}</string>
+	<key>ContentSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>0</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {1035, 430}}</string>
+			<string>{{0, 440}, {1035, 483}}</string>
+		</array>
+	</dict>
+	<key>ContentViewType</key>
+	<integer>0</integer>
+	<key>DeploymentOptions</key>
+	<dict>
+		<key>CompressJavaScript</key>
+		<true/>
+		<key>Destination</key>
+		<string>aos.default</string>
+		<key>EmailToNotifyAddress</key>
+		<string>yuwei.alexwang@gmail.com</string>
+		<key>Path</key>
+		<string>XNET2</string>
+		<key>Save</key>
+		<true/>
+		<key>SavePath</key>
+		<string>/Users/alex</string>
+		<key>WidgetDeployName</key>
+		<string>XnetUsageMonitor</string>
+		<key>enableSimulation</key>
+		<true/>
+		<key>simulatedHost</key>
+		<string>web.me.com</string>
+	</dict>
+	<key>Design time language</key>
+	<string>en.lproj</string>
+	<key>MainSplitViewGeometry</key>
+	<dict>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {244, 944}}</string>
+			<string>{{245, 0}, {1036, 944}}</string>
+		</array>
+	</dict>
+	<key>MainWindowFrame</key>
+	<string>1440 -65 1280 965 1440 -124 1280 1024 </string>
+	<key>NavigatorSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>5</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {246, 480}}</string>
+			<string>{{0, 490}, {246, 433}}</string>
+		</array>
+	</dict>
+	<key>Widget</key>
+	<dict>
+		<key>Objects view expanded items</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</array>
+		<key>Objects view last selections</key>
+		<array/>
+		<key>Opened Steps</key>
+		<array>
+			<integer>0</integer>
+			<integer>2</integer>
+			<integer>5</integer>
+		</array>
+		<key>Visible StackLayout Views</key>
+		<array>
+			<string>front</string>
+		</array>
+	</dict>
+</dict>
+</plist>
